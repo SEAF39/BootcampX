@@ -1,3 +1,6 @@
+
+/*cohorts.sql*/
+
 INSERT INTO cohorts (id, name, start_date, end_date) VALUES (1, 'FEB12', '2018-02-12T08:00:00.000Z', '2018-04-20T07:00:00.000Z');
 INSERT INTO cohorts (id, name, start_date, end_date) VALUES (2, 'MAR12', '2018-03-12T07:00:00.000Z', '2018-05-18T07:00:00.000Z');
 INSERT INTO cohorts (id, name, start_date, end_date) VALUES (3, 'APR09', '2018-04-09T07:00:00.000Z', '2018-06-15T07:00:00.000Z');
